@@ -1,3 +1,8 @@
+# Love Saroha
+# lovesaroha1994@gmail.com (email address)
+# https://www.lovesaroha.com (website)
+# https://github.com/lovesaroha  (github)
+
 # Single layer neural network with mini batch.
 import numpy
 import math

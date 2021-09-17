@@ -1,3 +1,8 @@
+# Love Saroha
+# lovesaroha1994@gmail.com (email address)
+# https://www.lovesaroha.com (website)
+# https://github.com/lovesaroha  (github)
+
 # Single layer neural network with regularization (l2) also called weight decay.
 import numpy
 import math
